@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me
 
-<!--
+I am a Statistics B.S. major and Data Science minor at the University of Virginia.  In my free time and for work, I love doing stuff in the film industry.  Very interested in the intersection betweeen statistics/data science and entertainment industries.  
+
 **rowierosen/rowierosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on getting a job.
+- 🌱 I’m currently learning more python, SQL, R, etc
+- 👯 I’m looking to collaborate on anything, especially film sets
+- 🤔 I’m looking for help with nothing especially at the moment.
+- 💬 Ask me about film.
+- 📫 How to reach me: rowanrosenblum2@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Have a corgi named Iggy.
+
